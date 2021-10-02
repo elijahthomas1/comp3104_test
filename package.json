@@ -1,0 +1,20 @@
+{
+  "name": "comp3104_test",
+  "version": "1.0.0",
+  "description": "sample project to understand github repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elijahthomas1/comp3104_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elijahthomas1/comp3104_test/issues"
+  },
+  "homepage": "https://github.com/elijahthomas1/comp3104_test#readme"
+}
